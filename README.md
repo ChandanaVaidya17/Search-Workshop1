@@ -67,6 +67,10 @@ iv. ```git clone <url_to_clone>```
 ```cd ~/projects/Search-Workshop1```\
 ```sudo sh install_docker.sh```
 
+else u can install manually 
+sudo apt-get install docker
+sudo apt-get install docker-compose
+
 ## What will you learn by the end of this workshop?
 - Introduction to GIT
 - Git commands (push, pull make Pull request etc)
