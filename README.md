@@ -99,3 +99,4 @@ sudo apt-get install docker-compose
 | 2:00 -  2:30    |  `Postgres Continuation`
 | 2:30 -  4:00    |  [`Running scripts`](docs/script/script_2.md)
 | 4:00 -  4:30    |  `Q & A and Wrapping Up`
+4:30 - 5 Q & A
